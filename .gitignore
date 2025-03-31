@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.class
+.env
+.venv/
+env/
+venv/
+docker-compose.override.yml
+.ipynb_checkpoints/
+models/*.pt
+.vscode/
